@@ -1,3 +1,6 @@
 [submodule "Flights-Service"]
 	path = Flights-Service
 	url = https://github.com/ankittkamal/Flights-Service.git
+[submodule "Flight-Booking-Service"]
+	path = Flight-Booking-Service
+	url = https://github.com/ankittkamal/Flight-Booking-Service.git
