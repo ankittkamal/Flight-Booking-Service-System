@@ -1,0 +1,3 @@
+[submodule "Flights-Service"]
+	path = Flights-Service
+	url = https://github.com/ankittkamal/Flights-Service.git
